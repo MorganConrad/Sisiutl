@@ -1,6 +1,6 @@
 # Sisiutl
 
-![Sisiutl](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Sisiutl")
+![Sisiutl](https://upload.wikimedia.org/wikipedia/commons/5/51/Sisiutl_mask.jpg "Sisiutl")
 
 The [sisiutl](https://en.wikipedia.org/wiki/Sisiutl) is a legendary creature found in many of the cultures of the Indigenous peoples of the Pacific Northwest Coast.
 
